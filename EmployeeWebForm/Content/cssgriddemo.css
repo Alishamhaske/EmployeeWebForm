@@ -1,0 +1,20 @@
+﻿body {
+}
+
+
+.gridview-style {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    background-color:palegoldenrod;
+    width: 100%;
+}
+
+    .gridview-style th, .gridview-style td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .gridview-style th {
+        background-color: #f2f2f2;
+    }
